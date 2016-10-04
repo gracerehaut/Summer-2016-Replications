@@ -1,0 +1,1 @@
+This branch contains replication data and code for "Black Politicians Are More Intrinsically Motivated to Advance Blacks’ Interests: A Field Experiment Manipulating Political Incentives" by David Broockman.
